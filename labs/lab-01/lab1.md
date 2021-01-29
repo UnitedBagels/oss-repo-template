@@ -12,20 +12,20 @@
 
 ## 2. Reading assignments - make sure to reflect on these in lab1.md in your repository
 
-###1. Open Source Definition 
+### 1. Open Source Definition 
 
 Fascinating definition - the more accessible code is, the more we can improve!
 
-###2. Smart Questions - How to ask the question The Smart Way.
+### 2. Smart Questions - How to ask the question The Smart Way.
 
 All these years I've developed my own method for searching questions on the web - this article will come in handy when I'm trying to search for something that I really can't find!
 
-###3. Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)?
+### 3. Do you have more suggestions for How To Answer Questions in a Helpful Way (from your past experience)?
 
 1. If a question genuinely does not belong on a particular site (i.e. StackOverflow), try to be resourceful and redirect the person rather then be aggressive.
 2. Don't go to far off topic -- try to stay within the scope of what the person asking the question would be able to understand.
 
-###4. Please read chapter 3 of Free Culture
+### 4. Please read chapter 3 of Free Culture
 
 I found chapter three of this book very fascinating. Aside from it being a case at RPI that I did not know about prior, I believe the lawsuit and its ending sends a powerful message to those working in software. Taking what is said in the book, I (and likely everyone else who read this) believe that Jesse was innocent and should not have been forced to settle any amount of money. This is because of the nature of open source software. Given that Jesse did not make the base Microsoft search engine, it was not his responsibility to oversee all the user activity on the network. This is not to say, however, that Microsoft should also be liable, but rather the end users who are exploiting the system. For example, the open-source project Tor has been used to traffic drugs over the dark web. However, this is not the main intention of Tor, and the people who should be held liable are those who commit illegal acts over the network.
 

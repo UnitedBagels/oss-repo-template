@@ -58,7 +58,7 @@ At first I was trying to make it go straight to the end without utilizing the lo
 [Project: QuACS](https://quacs.org/spring2021/#/)
 [GitHub Repo](https://github.com/quacs/quacs)
 
-A feature that QuACS could implement is a user account system with the ability to save and view any schedules that you make on the site. Users would also be able to share schedules with each other and add comments to that schedule. Users would find this useful because it would give them the ability to connect with one another through sharing schedules stored in their accounts. For example, you could keep a record of all of the temporary/final schedules you made while at RPI -- to go back and view classes you may have wanted to take prior.
+I'm interested in working on the open source project QuACS. After using this tool for a few semesters, I have thought about ways it could be improved. A feature that QuACS could implement is a user account system with the ability to save and view any schedules that you make on the site. Users would also be able to share schedules with each other and add comments to that schedule. Users would find this useful because it would give them the ability to connect with one another through sharing schedules stored in their accounts. For example, you could keep a record of all of the temporary/final schedules you made while at RPI -- to go back and view classes you may have wanted to take prior.
 
 
 This feature could be implemented with existing technologies in QuACS repository, including Vue.js for frontend and Python for backend.

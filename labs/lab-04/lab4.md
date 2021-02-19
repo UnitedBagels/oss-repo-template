@@ -23,7 +23,7 @@ Website | License Present | License
 https://github.com/dangitjason/tutorbase | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 https://github.com/OpenCircuits/OpenCircuits | Yes | GPL-3.0 License https://en.wikipedia.org/wiki/GNU_General_Public_License
 https://github.com/submitty/submitty | Yes | BSD 3-Clause License https://en.wikipedia.org/wiki/BSD_licenses
-https://github.com/wtg/shuttletracker | Yes | AGPL-3.0 License https://en.wikipedia.org/wiki/BSD_licenses
+https://github.com/wtg/shuttletracker | Yes | AGPL-3.0 License https://en.wikipedia.org/wiki/Affero_General_Public_License
 https://github.com/quacs/quacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
 
 

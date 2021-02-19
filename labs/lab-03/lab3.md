@@ -21,4 +21,4 @@
 - Only counted 4 contributors when there is a total of 10 as gitstats found
 - Specified commits were constant between gitstats and github
 
-![alt text](market.PNG "marketbot")
+![alt text](market.png "marketbot")

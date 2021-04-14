@@ -11,24 +11,29 @@ https://rcos.io/projects/jakezam/crabapple-conglomerate/blog
 ## Checkpoint 1
 
 Connection accepted message from `mongod` window:
+
 ![](check1/ch1.PNG)
 
 ## Checkpoint 2
 
 Create collection message:
+
 ![](check2/ch2.PNG)
 
 ## Checkpoint 3
 
 Adding and looking up the new word:
+
 ![](check3/ch3_newword.PNG)
 
 Updating and looking up an existing entry:
+
 ![](check3/ch3_updateword.PNG)
 
 I had some issues properly displaying the differences in `definitions.json` using `git diff`, since it is showing additional changes in addition to my own. 
 
-I have underlined my changes in the `git diff` windows below. The full file is available at: 
+I have underlined my changes in the `git diff` windows below. The full file is available at: https://github.com/UnitedBagels/oss-repo-template/blob/master/labs/lab-10/check3/git_diff.txt
+
 ![](check3/ch3_diff1.PNG)
 
 ![](check3/ch3_diff2.PNG)
@@ -74,7 +79,7 @@ if __name__ == '__main__':
 
 Fetch all records
 
-Full file is available at: 
+Full file is available at: https://github.com/UnitedBagels/oss-repo-template/blob/master/labs/lab-10/check4/fetch_all.txt
 
 ```
 {'_id': ObjectId('56fe9e22bad6b23cde07b8b7'),

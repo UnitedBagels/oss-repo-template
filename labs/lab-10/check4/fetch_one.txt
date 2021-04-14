@@ -1,0 +1,3 @@
+{'_id': ObjectId('56fe9e22bad6b23cde07b8b7'),
+ 'definition': " exp. Equivalent to ``gag.''",
+ 'word': 'Ack'}

@@ -1,0 +1,4 @@
+None
+{'_id': ObjectId('60774c56a34bdd75c3aff2a2'),
+ 'definition': 'One of the coolest animals on the planet.',
+ 'word': 'Penguin'}

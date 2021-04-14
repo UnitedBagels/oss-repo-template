@@ -1,0 +1,6 @@
+{'_id': ObjectId('56fe9e22bad6b23cde07b8d2'),
+ 'definition': ' n. Sedentary lifeform most prevalent on low slung sofas and '
+               'lounges around the campus. Best sightings are in the JEC '
+               'Lounge, the second floor of the Union and on every floor of '
+               'the Folsom Library.',
+ 'word': 'Couch Potato'}

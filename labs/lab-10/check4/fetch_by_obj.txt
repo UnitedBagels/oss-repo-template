@@ -1,0 +1,5 @@
+{'_id': ObjectId('56fe9e22bad6b23cde07b8ce'),
+ 'definition': ' n.  (RPI) The ubiquitous supermarket of the Capital District '
+               'and all-time favorite food store for RPI students.  Also '
+               "called ``Price Gouger'' or ``Price Hacker.''",
+ 'word': 'Chopper'}

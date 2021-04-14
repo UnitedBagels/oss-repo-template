@@ -1,0 +1,1 @@
+{'_id': ObjectId('56fe9e22bad6b23cde07b8d8'), 'definition': ' v. To destroy, delete or eliminate.', 'word': 'De-rez', 'dates': ['2021-04-14T20:42:08.404566', '2021-04-14T20:44:40.995928']}

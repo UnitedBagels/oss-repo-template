@@ -16,7 +16,7 @@ Showing images 9000 - 9014 instead of images 0 - 15:
 
 ### Image 1: Coat
 
-![](check3/coat.PNG)
+![](check3/coat.png)
 
 Result: Correct match!
 

@@ -1,0 +1,5 @@
+coat: https://images.squarespace-cdn.com/content/v1/5b4544e485ede17941bc95fc/1615934661401-4WFNQ2EGPNX6V0NYO4O2/ke17ZwdGBToddI8pDm48kDWZitOJJb1yTSET575BbxAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2QUGjXLfqQd-0M_T7eCoV65UAopg-Ly5H9cmySP50aucKMshLAGzx4R3EDFOm1kBS/ll-bean-primaloft-packaway.png
+
+sweater: https://cdni.llbean.net/is/image/wim/297466_1155_41?hei=1095&wid=950&resMode=sharp2&defaultImage=llbstage/A0211793_2
+
+shoes: https://cdni.llbean.net/is/image/wim/175052_1914_41?hei=1095&wid=950&resMode=sharp2&defaultImage=llbstage/A0211793_2

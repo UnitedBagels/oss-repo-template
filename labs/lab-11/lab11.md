@@ -1,4 +1,4 @@
-# Lab 9 - Databases - CSCI 4470
+# Lab 10 - TensorFlow - CSCI 4470
 ### Thomas Arturi
 
 ## Checkpoint 1
